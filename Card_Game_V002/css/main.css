@@ -1,0 +1,125 @@
+﻿/*html5 shiv*/
+article, aside, figure, footer, header, hgroup,
+menu, nav, section { display: block; }
+
+body{
+    overflow-y: auto;
+}
+
+h1{
+    font-size: 3.5em;
+}
+.lblWarning{
+    font-weight: 700;
+    color: red;
+}
+
+.btnStyle{
+    margin-right: 10px;
+    width: 75px;
+    outline-style: none;
+}
+/*remove focus border from button*/
+.btnStyle:focus{
+    outline-style:none;
+}
+input:active{
+    outline-style: none;
+}
+
+#section{
+    margin-left: 60px;
+}
+
+/*login form css*/
+#login{   
+    color: lightgrey;
+    padding: 15px;
+    border-radius: 25px;
+    background-color: #010101;
+    box-shadow: 30px 40px 50px 5px #000;
+    border-left-style:solid;
+    border-bottom-style:solid;
+    border-color:#343434;
+    border-width: 5px;
+    margin-bottom: 25px;
+}
+
+#UserInputArea{
+    border-radius: 5px;
+    border-left-style:solid;
+    border-bottom-style:solid;
+    border-width: 3px;
+    border-color:#343434;
+    /*set height to percentage of parent div*/
+}
+
+#loginBody{
+    background-image: url("../images/posLoginPic2.jpg"); 
+    background-repeat: no-repeat;
+    background-color:black;
+}
+#loginPassword{
+    margin-left: 100px;
+    margin-right: 20px;
+    width: 158px;
+}
+
+#passwordLink{
+    margin-top: 17px;
+}
+
+a{outline:0;}
+a:focus{outline:0;}
+
+#WarningPanel{
+    margin-top: 10px;
+}
+
+#footer{
+    color:lightgrey;
+    background-color: #010101;
+    border-radius: 35px 35px 0px 0px;
+    font-weight: 700;
+    border-top: none;
+}
+
+/*
+Sticky Footer by Ryan Fait
+http://ryanfait.com/
+*/
+
+*{
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -6em;
+}
+footer, .push {
+    height: 6em;
+    clear:both;
+}
+
+form {
+    height: 100%;
+}
+/*End sticky footer*/
+
+
+/*set the span contents of the footer accordingly
+    center text on screen and text align center
+*/
+#footerContent{
+    position:fixed;
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    text-align: center;
+    margin-top: 25px;
+}
+

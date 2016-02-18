@@ -1,0 +1,148 @@
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\ApplicationInsights.config
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\csc.exe
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\vbc.exe
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Joey_Wilhelms_Project_Membership.dll.config
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Joey_Wilhelms_Project_Membership.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Joey_Wilhelms_Project_Membership.pdb
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.xml
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.csprojResolveAssemblyReference.cache
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.dll
+C:\Users\Wilhelms\Documents\Visual Studio 2015\Projects\Joey_Wilhelms_Project_Membership\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.pdb
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\ApplicationInsights.config
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\csc.exe
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\vbc.exe
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.xml
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.csprojResolveAssemblyReference.cache
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\ApplicationInsights.config
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\csc.exe
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\vbc.exe
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Joey_Wilhelms_Project_Membership.dll.config
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Joey_Wilhelms_Project_Membership.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Joey_Wilhelms_Project_Membership.pdb
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.xml
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.csprojResolveAssemblyReference.cache
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.dll
+C:\Users\Wilhelms\Desktop\School\ASP.NET\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.pdb
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Card_Game_V002.dll.config
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Card_Game_V002.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\bin\Card_Game_V002.pdb
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\obj\Debug\Card_Game_V002.dll
+C:\Users\Wilhelms\Desktop\Joey_Wilhelms_Project_Membership_01\Joey_Wilhelms_Project_Membership\obj\Debug\Card_Game_V002.pdb
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\ApplicationInsights.config
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\csc (2).exe
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\csc.exe
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (2).dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis (2).dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.CSharp (2).dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (2).dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CSharp.Core (2).targets
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.VisualBasic.Core (2).targets
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Collections.Immutable (2).dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Reflection.Metadata (2).dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\vbc (2).exe
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\vbc.exe
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler (2).exe
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe (2).config
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Card_Game_V002.dll.config
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Card_Game_V002.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Card_Game_V002.pdb
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.Web.xml
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\obj\Debug\Joey_Wilhelms_Project_Membership.csprojResolveAssemblyReference.cache
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\obj\Debug\Card_Game_V002.dll
+C:\Users\Wilhelms\Desktop\Card_Game_V002\Joey_Wilhelms_Project_Membership\obj\Debug\Card_Game_V002.pdb
