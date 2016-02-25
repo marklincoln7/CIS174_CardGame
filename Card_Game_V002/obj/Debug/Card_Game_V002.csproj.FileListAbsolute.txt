@@ -44,3 +44,49 @@ C:\Users\Wilhelms\Desktop\School\ASP.NET\Card_Game_V002\Card_Game_V002\bin\Micro
 C:\Users\Wilhelms\Desktop\School\ASP.NET\Card_Game_V002\Card_Game_V002\obj\Debug\Card_Game_V002.csprojResolveAssemblyReference.cache
 C:\Users\Wilhelms\Desktop\School\ASP.NET\Card_Game_V002\Card_Game_V002\obj\Debug\Card_Game_V002.dll
 C:\Users\Wilhelms\Desktop\School\ASP.NET\Card_Game_V002\Card_Game_V002\obj\Debug\Card_Game_V002.pdb
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\ApplicationInsights.config
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\csc (2).exe
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\csc.exe
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis (2).dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CodeAnalysis (2).dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CodeAnalysis.CSharp (2).dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic (2).dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CSharp.Core (2).targets
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.VisualBasic.Core (2).targets
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\System.Collections.Immutable (2).dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\System.Reflection.Metadata (2).dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\vbc (2).exe
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\vbc.exe
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\VBCSCompiler (2).exe
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\VBCSCompiler.exe (2).config
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Card_Game_V002.dll.config
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Card_Game_V002.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Card_Game_V002.pdb
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.Web.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.Web.xml
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\obj\Debug\Card_Game_V002.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\obj\Debug\Card_Game_V002.dll
+C:\Users\Mark\Documents\Mark\Dmacc\CIS174 Advanced C#\CIS174_CardGame\Card_Game_V002\obj\Debug\Card_Game_V002.pdb

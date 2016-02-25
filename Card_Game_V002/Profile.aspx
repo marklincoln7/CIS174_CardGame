@@ -96,7 +96,7 @@
                 CssClass="btn btn-warning col-sm-2 btnStyle" 
                 Text="Return" ID="btnReturn" 
                 CausesValidation="False" 
-                PostBackUrl="~/Login.aspx" TabIndex="7"/><!--Postbackurl property for return-->
+                PostBackUrl="~/Login.aspx" TabIndex="7" OnClick="btnReturn_Click"/><!--Postbackurl property for return-->
             <asp:Button 
                 runat="server" 
                 CssClass="btn btn-primary col-sm-2 btnStyle" 
